@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🔭 Estou trabalhando atualmente com: Nada<br>- 🌱 Estou estudando informática para internet na etecvav<br>- 😄 Pronomes: ele/dele <br>- ⚡ curiosidade: tenho 100 brawlers no BS!
+- 🔭 Estou trabalhando atualmente com: Nada<br>- 🌱Estou aprendendo HTML5, CSS3, SQL(banco de dados em geral), Portugol e C++ <br>- 😄 Pronomes: ele/dele <br>- ⚡ curiosidade: Estou cursando Informatica para Internet na Etecvav(CPS)
 
 
 ## 🌐 Socials:
